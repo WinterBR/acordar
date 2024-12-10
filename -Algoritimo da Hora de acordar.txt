@@ -1,0 +1,12 @@
+-Algoritimo da Hora de acordar
+
+1.Abrir os olhos.
+2.Tirar a coberta.
+3.Levantar da cama.
+4.Colocar o chinelo.
+5.Se não estiver chovendo:
+    1.Mover a cortina.
+    2.Abrir a janela do quarto.
+6.Ir escovar os dentes.
+7.Tomar água.
+8.Comer o café da manhã.
